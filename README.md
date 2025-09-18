@@ -1,6 +1,6 @@
-### Hello there ! My name is Marine
+###### Hello there ! :smile_cat: My name is Marine
 
-Formerly a biology teacher, I am now training in computer science. A vast world of creativity and possibility has opened up to me, and it's amazing ! The sea air and sunshine of Marseille keep me company when I'm coding. 
+Formerly a biology teacher, I am now training in computer science. A vast world of creativity and possibility has opened up to me, and it's amazing ! The sea air :ocean: and sunshine :sunny: of Marseille keep me company when I'm coding. 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Belladone-Bzz&show_icons=true)  
 
