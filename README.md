@@ -1,4 +1,4 @@
-### My name is Marine
+### Hello there ! My name is Marine
 
 Formerly a biology teacher, I am now training in computer science. A vast world of creativity and possibility has opened up to me, and it's amazing !
 
