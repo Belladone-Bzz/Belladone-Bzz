@@ -16,8 +16,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Belladone-Bzz&show_icons=true)  
 
 
-![Cover](https://github.com/Belladone-Bzz/Belladone-Bzz/blob/main/herbier.png)
-
 
 
 
