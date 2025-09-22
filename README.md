@@ -16,7 +16,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 - *C*
 - *Shell*
 
-**Language :**
+**Tools :**
 - *Git*
 - *Adobe Illustrator, Adobe Photoshop, GraphPad Prism*
 
