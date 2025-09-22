@@ -27,7 +27,6 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 - **Status :** *0/24*
 
 ## :mailbox_with_mail: Contact
-- **Mail :** belladone.gaming@gmail.com
 - **Portfolio :** in development :construction:
 
 
