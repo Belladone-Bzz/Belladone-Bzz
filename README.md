@@ -9,7 +9,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 ##### :mortar_board: PhD in biology
 ##### :speech_balloon: French - English
 
-![Test Image 4](https://github.com/Belladone-Bzz/Belladone-Bzz/blob/main/png/belladone.png)
+
 
 ## :pushpin: Skills
 **Language :** 
@@ -32,7 +32,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 
 
 
-
+![Test Image 4](https://github.com/Belladone-Bzz/Belladone-Bzz/blob/main/png/belladone.png)
 
 
 
