@@ -10,6 +10,7 @@ Formerly a biology teacher, I am now training in computer science. A vast world 
 
 When I'm not coding, there's a good chance you'll find me reading (science fiction, fantasy, sociology), playing video games, climbing, or drinking a beer while playing board games with my friends. 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Belladone-Bzz&show_icons=true&theme=tokyonight)
 
 ## :pushpin: Skills
 **Languages :** 
