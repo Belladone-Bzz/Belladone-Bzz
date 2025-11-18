@@ -16,16 +16,28 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 **Languages :** 
 - *C*
 - *Shell*
+- *Makefile*
 
 **Tools :**
 - *Git*
+- *VSCode*
 - *Adobe Illustrator, Adobe Photoshop, GraphPad Prism*
 
 ## :open_file_folder: Projects
-#### 1. Advent of Code 2024
+#### 1. My own LibC
+- **Description :** *Creation of my own usable library LibC. It contains functions regarding character classification, string and memory manipulation, duplication and comparison, simple characters terminal printing as well as basic through advanced linked list handling.*
+- **Language :** *C*
+- **Status : :fire: DONE 11/18/25**
+
+#### 2. Bingo 2026
+- **Description :** *Creation of a Bingo game with goals to be achieved during the year 2026. The Bingo game will have an interface and clickable animations.*
+- **Language :**
+- **Status :** :see_no_evil: *In progress*
+
+#### 3. Advent of Code 2024
 - **Description :** *Advent calendar with coding exercises of increasing difficulty.*
 - **Language :** *C*
-- **Status :** *0/24*
+- **Status :** :see_no_evil: *In progress*
 
 ## :mailbox_with_mail: Contact
 - **Portfolio :** in development :construction:
