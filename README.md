@@ -25,7 +25,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 
 :triangular_flag_on_post: **TryHackMe**
 
-![tryhackme stats](https://raw.githubusercontent.com/Belladone-Bzz/Belladone-Bzz/master/assets/thm_propic.png)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Belladone.Bzz.png" alt="Your Image Badge" />
 
 ## :open_file_folder: Major projects in the pipeline or completed
 #### Global Game Jam
