@@ -1,6 +1,10 @@
 # :smile_cat: Hello there ! Welcome to my world :smile_cat:
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/i.am.stramgram/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31oi66suyo6t4yrmmpf5u4ryndiy?si=04b5f418ce4b40ff) 
+<p align="center">
+<a href="https://github.com/Belladone-Bzz>">
+    <img src="https://komarev.com/ghpvc/?username=Belladone-Bzz&label=Profile%20views&color=0F172A&style=flat" alt="Profile views"/>
+  </a>
+</p>
 
 :mortar_board: PhD in biology
 
