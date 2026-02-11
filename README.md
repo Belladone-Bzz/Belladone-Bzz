@@ -14,6 +14,20 @@ Formerly a biology teacher, I am now training in computer science. A vast world 
 When I'm not coding, there's a good chance you'll find me reading (science fiction, fantasy, sociology), playing video games, climbing, or drinking a beer while playing board games with my friends. 
 
 ## :pushpin: Skills
+<div align="center">
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/github.png" alt="GitHub" title="GitHub"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vim.png" alt="Vim" title="Vim"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" alt="Visual Studio Code" title="Visual Studio Code"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/canva.png" alt="Canva" title="Canva"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c.png" alt="C" title="C"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mendeley.png" alt="Mendeley" title="Mendeley"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/zotero.png" alt="Zotero" title="Zotero"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/linux.png" alt="Linux" title="Linux"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" alt="fedora" title="fedora"/></code>
+	<code><img width="40" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/kali_linux.png" alt="Kali Linux" title="Kali Linux"/></code>
+</div>
+
 :speech_balloon: **Languages :** 
 - *Shell*
 - *C*
@@ -21,10 +35,16 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 - *Python*
 
 :wrench: **Tools :**
+- *Linux (Fedora/Kali)*
 - *Git*
 - *VSCode*
+- *Vim*
 - *Obsidian*
-- *Adobe Illustrator, Adobe Photoshop, GraphPad Prism*
+- *Adobe Illustrator, Adobe Photoshop*
+- *GraphPad Prism*
+- *Canva*
+- *Mendeley*
+- *Zotero*
 
 :triangular_flag_on_post: **TryHackMe**
 
