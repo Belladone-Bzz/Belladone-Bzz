@@ -31,9 +31,6 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 - **Description :** *The Global Game Jam is a 48-hour video game creation event based on a given theme, which takes place every year. It is the perfect opportunity for developers, artists, game designers, and anyone else who is curious to get together and put their talents to the test by creating an original game concept in record time.*
 - **Date : 01/28/26 - 01/30/26**
 
-## :open_file_folder: School projects
-
-
 ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=Belladone-Bzz&theme=dark&accent=%23FBBF24)
 
 
