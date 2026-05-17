@@ -13,24 +13,33 @@ Formerly a biology teacher, I am now training in computer science. A vast world 
 
 When I'm not coding, there's a good chance you'll find me reading (science fiction, fantasy, sociology), playing video games, climbing, or drinking a beer while playing board games with my friends. 
 
-## :pushpin: Skills
-**Languages :** 
+## :open_file_folder: School projects
+#### [C_library](https://github.com/Belladone-Bzz/C_library)
+- **Description :** *The aim of this project was to help me understand how the libc library functions work, how to recreate them myself, and how to use them correctly.*
+- **Language:** *C - Makefile*
 
-*Shell* - *C* - *Makefile* - *Python*
+#### [Printf](https://github.com/Belladone-Bzz/Printf)
+ - **Description :** *This project involves recreating the printf() function which handles the following conversions : cspdiuxX%*
+- **Language:** *C - Makefile*
 
-**Tools :**
+#### [Get_Next_Line](https://github.com/Belladone-Bzz/Get_Next_Line)
+ - **Description :** *The goal of this project was to recode the get_next_line() function, which reads the contents of a file line by line from a file descriptor, where a “line” is a sequence of characters ending with “\n” (new line) or the end of the file (EOF).*
+- **Language:** *C - Makefile*
 
-*Linux (Fedora/Kali)* - *Git* - *VSCode* - *Vim* - *Obsidian* - *Adobe Illustrator|Photoshop* - *GraphPad Prism* - *Canva* - *Mendeley* - *Zotero*
+#### [Push_Swap](https://github.com/Belladone-Bzz/Push_Swap)
+ - **Description :** *Push-swap is a group project that involves sorting a stack of integers using a limited set of operations (push, swap and rotate) and minimizing the number of moves.*
+- **Language:** *C - Makefile*
 
-**TryHackMe :**
-
-<img src="https://tryhackme-badges.s3.amazonaws.com/Belladone.Bzz.png?update=1" alt="Your Image Badge" />
+#### [Python_Practice](https://github.com/Belladone-Bzz/Python_practice)
+ - **Description :** *All exercice done to practice Python languqge*
+- **Language:** *Python*
 
 ## :open_file_folder: Personal projects
 #### Global Game Jam
 - **Description :** *The Global Game Jam is a 48-hour video game creation event based on a given theme, which takes place every year. It is the perfect opportunity for developers, artists, game designers, and anyone else who is curious to get together and put their talents to the test by creating an original game concept in record time.*
 - **Date : 01/28/26 - 01/30/26**
 
+## :chart_with_upwards_trend: Stats
 ![Streak (plain)](https://coolreadme.xyz/api/streak-plain?user=Belladone-Bzz&theme=dark&accent=%23FBBF24)
 
 
