@@ -1,3 +1,7 @@
+![Projects Gallery](https://coolreadme.xyz/api/projects-gallery?user=Belladone-Bzz&theme=dark&accent=%23FBBF24&projects=C_Library%7CThe%20aim%20of%20this%20project%20was%20to%20help%20me%20understand%20how%20the%20libc%20library%20functions%20work%2C%20how%20to%20recreate%20them%20myself%2C%20and%20how%20to%20use%20them%20correctly.%7CTypeScript%7Chttps%3A%2F%2Fgithub.com%2FBelladone-Bzz%2FC_library%3B%3BPrintf%7CThis%20project%20involves%20recreating%20the%20printf()%20function%20which%20handles%20the%20following%20conversions%20%3A%20cspdiuxX%25%7CTypeScript%7Chttps%3A%2F%2Fgithub.com%2FBelladone-Bzz%2FPrintf)
+
+
+
 # [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg' alt='spotify' height='40'>](https://open.spotify.com/user/31oi66suyo6t4yrmmpf5u4ryndiy?si=04b5f418ce4b40ff)  Hello there ! Welcome to my world 
 <p align="center">
 <a href="https://github.com/Belladone-Bzz>">
