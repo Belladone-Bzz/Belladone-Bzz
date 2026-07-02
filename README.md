@@ -4,7 +4,7 @@
   </a>
 </p>
 
-![Typing Headline](https://coolreadme.xyz/api/typing-card?user=yerdaulet-damir&theme=dark&accent=%23FBBF24&lines=PhD%20-%20French%20English%20-%20Marseille%20(France))
+Biology Ph.D -- French - English
 
 Formerly a biology teacher, I am now training in computer science. A vast world of creativity and possibility has opened up to me, and it's amazing ! The sea air and sunshine of Marseille keep me company when I'm coding. I am currently learning C and Python, and my professional goal is to move into cybersecurity.
 
