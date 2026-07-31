@@ -35,8 +35,11 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
  - **Description :** *The aim of this project is to create a program capable of generating a maze and then solving it by identifying the shortest path between the entrance and the exit.*
 - **Language:** *Python*
 
+#### [Born_to_be_root](https://gist.github.com/Belladone-Bzz/ddcbb403f55ab3c3b32310fd95cf95be)
+ - **Description :** *This project introduces key concepts that are foundational to modern infrastructure and cloud technologies, teaching essential system administration skills through hands-on virtual machine configuration and security implementation.*
+
 #### [Net_Practice](https://gist.github.com/Belladone-Bzz/257afef25ff9de624ecb9ba4d23d33e3)
- - **Description :** *Net Practice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals. *
+ - **Description :** *Net Practice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals.*
 
 ## :open_file_folder: Personal projects
 #### Global Game Jam
