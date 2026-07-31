@@ -35,6 +35,9 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
  - **Description :** *The aim of this project is to create a program capable of generating a maze and then solving it by identifying the shortest path between the entrance and the exit.*
 - **Language:** *Python*
 
+#### [Net_Practice](https://gist.github.com/Belladone-Bzz/257afef25ff9de624ecb9ba4d23d33e3)
+ - **Description :** *Net Practice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals. *
+
 ## :open_file_folder: Personal projects
 #### Global Game Jam
 - **Description :** *The Global Game Jam is a 48-hour video game creation event based on a given theme, which takes place every year. It is the perfect opportunity for developers, artists, game designers, and anyone else who is curious to get together and put their talents to the test by creating an original game concept in record time.*
