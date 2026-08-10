@@ -37,9 +37,14 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 
 #### [Born_to_be_root](https://gist.github.com/Belladone-Bzz/ddcbb403f55ab3c3b32310fd95cf95be)
  - **Description :** *This project introduces key concepts that are foundational to modern infrastructure and cloud technologies, teaching essential system administration skills through hands-on virtual machine configuration and security implementation.*
+ - **Language:** *Bash*
 
 #### [Net_Practice](https://gist.github.com/Belladone-Bzz/257afef25ff9de624ecb9ba4d23d33e3)
  - **Description :** *Net Practice is a hands-on networking project featuring 10 progressive levels that teach essential computer networking fundamentals.*
+
+#### [Inception](https://github.com/Belladone-Bzz/Inception)
+ - **Description :** *In this project, I set up a complete infrastructure using Docker Compose, creating and managing multiple containerized services including NGINX with SSL/TLS, WordPress with php-fpm, and MariaDB.*
+ - **Language:** *Bash - Makefile*
 
 ## :open_file_folder: Personal projects
 #### Global Game Jam
