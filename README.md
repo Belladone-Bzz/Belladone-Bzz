@@ -55,7 +55,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
 - **Description :** *The Global Game Jam is a 48-hour video game creation event based on a given theme, which takes place every year. It is the perfect opportunity for developers, artists, game designers, and anyone else who is curious to get together and put their talents to the test by creating an original game concept in record time.*
 - **Date : 01/28/26 - 01/30/26**
 
-#### [JDR_website](https://github.com/jolyne-mangeot/Pac-man](https://github.com/Belladone-Bzz/JDR_website)
+#### [JDR_website](https://github.com/Belladone-Bzz/JDR_website)
  - **Description :** *In this project, I created a website for my "Donjons and Chatons" JDR sessions with my friends.*
  - **Language:** *JavaScript - HTML - CSS* 
 
