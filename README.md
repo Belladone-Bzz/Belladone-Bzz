@@ -50,6 +50,10 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
  - **Description :** *In this project, we recreated the famous arcade game Pac-Man with a modern Python codebase, a clean project structure, and a deployable build.*
  - **Language:** *Python - Makefile*
 
+#### [Codexion](https://github.com/Belladone-Bzz/Codexion)
+ - **Description :** * In this project, I orchestrate multiple coders competing for limited USB dongles using POSIX threads, mutexes, and smart scheduling to master resource synchronization.*
+ - **Language:** *C - Makefile*
+
 ## :open_file_folder: Personal projects
 #### Global Game Jam
 - **Description :** *The Global Game Jam is a 48-hour video game creation event based on a given theme, which takes place every year. It is the perfect opportunity for developers, artists, game designers, and anyone else who is curious to get together and put their talents to the test by creating an original game concept in record time.*
