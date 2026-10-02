@@ -51,7 +51,7 @@ When I'm not coding, there's a good chance you'll find me reading (science ficti
  - **Language:** *Python - Makefile*
 
 #### [Codexion](https://github.com/Belladone-Bzz/Codexion)
- - **Description :** * In this project, I orchestrate multiple coders competing for limited USB dongles using POSIX threads, mutexes, and smart scheduling to master resource synchronization.*
+ - **Description :** *In this project, I orchestrate multiple coders competing for limited USB dongles using POSIX threads, mutexes, and smart scheduling to master resource synchronization.*
  - **Language:** *C - Makefile*
 
 ## :open_file_folder: Personal projects
